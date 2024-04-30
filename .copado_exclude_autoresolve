@@ -1,0 +1,11 @@
+#All classes
+**/*.class
+
+#All VF pages
+**/*.page
+
+#All LWC
+**/lwc/**
+
+#All aura bundles
+**/aura/**
